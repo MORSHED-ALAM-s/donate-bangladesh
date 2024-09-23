@@ -13,3 +13,10 @@
 .btn-color{
     background-color: #B4F461;
 }
+.border-1{
+    border: rgb(140, 136, 136) 2px;
+}
+.container{
+    width: 90%;
+    margin: 5rem auto;
+}
