@@ -14,7 +14,8 @@
     background-color: #B4F461;
 }
 .border-1{
-    border: rgb(140, 136, 136) 2px;
+    border: 1px solid;
+    border-radius: 5px;
 }
 .container{
     width: 90%;
